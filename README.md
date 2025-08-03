@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Bruna Mesquita
 
-**`Analista & Desenvolvedora`**
+**`Analista de Dados & Desenvolvedora`**
 
 <div align="center">
 <a href="https://git.io/typing-svg">

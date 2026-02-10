@@ -53,19 +53,21 @@ I am a Software Engineer focused on the **Microsoft Ecosystem (.NET)** and **Mod
 <br/>
 
 <div align="center">
-  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODQ4MmI2NzkzY2E4NzQ2ODRhNmM5ODk3YzkxZDU5NmYxYWMxZDY1ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Tia13RnrU5Uqg/giphy.gif" width="100%" style="border-radius: 8px" alt="Hyperspace Jump">
 
-  <br/>
-  <br/>
+  <img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE-25D03F?style=flat-square&logo=linux" />
+  <img src="https://img.shields.io/badge/HYPERDRIVE-READY-0077B5?style=flat-square" />
+  <img src="https://img.shields.io/badge/COMPILATION-SUCCESS-25D03F?style=flat-square" />
 
-  <h3><i>"Do. Or do not. There is no try."</i></h3>
-  — <b>Master Yoda</b>
-  <br/>
-  <p>(Sobre entregar código de qualidade em produção)</p>
+  <br/><br/>
+
+  <img src="https://i.pinimg.com/originals/c4/26/95/c42695c90667cf2d81fc7b035fc7fc67.gif" width="80%" style="border-radius: 6px; border: 1px solid #333;">
 
   <br/>
 
-  <img src="https://img.shields.io/badge/May%20the%20Source%20be%20with%20you-000?style=for-the-badge&logo=github&logoColor=25D03F" alt="May the Source be with you">
+  <p>
+    <i>"The Force is strong with this code."</i>
+  </p>
+
+  <img src="https://img.shields.io/badge/May%20the%20Source%20be%20with%20you-black?style=for-the-badge&logo=github&logoColor=white" alt="May the Source be with you">
 
 </div>

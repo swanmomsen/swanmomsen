@@ -47,3 +47,25 @@ I am a Software Engineer focused on the **Microsoft Ecosystem (.NET)** and **Mod
 </div>
 
 <br/>
+
+<br/>
+<hr/>
+<br/>
+
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODQ4MmI2NzkzY2E4NzQ2ODRhNmM5ODk3YzkxZDU5NmYxYWMxZDY1ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Tia13RnrU5Uqg/giphy.gif" width="100%" style="border-radius: 8px" alt="Hyperspace Jump">
+
+  <br/>
+  <br/>
+
+  <h3><i>"Do. Or do not. There is no try."</i></h3>
+  — <b>Master Yoda</b>
+  <br/>
+  <p>(Sobre entregar código de qualidade em produção)</p>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/May%20the%20Source%20be%20with%20you-000?style=for-the-badge&logo=github&logoColor=25D03F" alt="May the Source be with you">
+
+</div>

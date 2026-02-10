@@ -1,59 +1,49 @@
 <div align="center">
-  
-  <table border="0">
-  <tr>
-    <td width="65%" valign="center">
-      <h1>Olá! Eu sou a Bruna Mesquita</h1>
-      <h3>🚀 Software Engineer Intern | Full Stack Developer</h3>
-      <br>
-      
-      Sou estudante de Engenharia de Software na <b>FUCAPI</b>, com foco em desenvolvimento back-end e arquitetura de sistemas.
-      <br><br>
-      Atualmente, atuo no mercado desenvolvendo soluções escaláveis, unindo a robustez do <b>C#/.NET</b> com a interatividade do <b>React</b>. Meu objetivo é construir software de alto desempenho seguindo boas práticas de engenharia.
-      <br><br>
-      
-      <a href="https://www.linkedin.com/in/brunamesquita-vm">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-      </a>
-      <a href="mailto:bruna.mesquita11@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-      </a>
-    </td>
-    <td width="35%" align="center">
-      <img src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.gif" width="100%">
-    </td>
-  </tr>
-  </table>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=25D03F&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+a+Bruna;Software+Engineer+Intern;Full+Stack+.NET+%26+React;Apaixonada+por+C%23+e+Java" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <p>
+    Estudante de Engenharia de Software na <b>FUCAPI</b>.<br>
+    Foco em construir sistemas escaláveis, arquitetura limpa e performance.
+  </p>
+
+  <a href="https://www.linkedin.com/in/brunamesquita-vm" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:bruna.mesquita11@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
 
 </div>
 
-<br>
+<br/>
+<hr/>
 
-### 🛠️ Main Stack (Hard Skills)
+### 🛠️ Tech Stack & Ferramentas
 
-Ferramentas que utilizo no dia a dia para criar soluções completas:
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,sqlserver,postgres,react,nextjs,ts,docker,git&perline=15" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,postgres,sqlserver&perline=6" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,html,css,tailwind&perline=6" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode,linux&perline=6" />
 </div>
 
-<br>
+<br/>
 
-### ☀️ Destaques de Habilidade
+### ⚡ O que estou fazendo agora:
 
-| Categoria | Conceitos-Chave e Tecnologias |
-| :--- | :--- |
-| **Back-End** | C# (.NET 6/8), Java (Spring Boot), Desenvolvimento de APIs RESTful, Entity Framework. |
-| **Arquitetura** | Microsserviços, Clean Architecture, SOLID, Design Patterns, MVC. |
-| **Front-End** | React.js, Next.js, TypeScript, Consumo de APIs, Hooks & Context API. |
-| **Dados & DB** | SQL Server, PostgreSQL, Modelagem Relacional (DER), Otimização de Queries. |
-| **DevOps** | Git Flow, Docker, CI/CD Básico, Postman (Testes de API). |
+- 🔭 **Estágio:** Desenvolvendo APIs RESTful robustas com **.NET 8** e Front-end reativo com **React**.
+- 🌱 **Estudando:** Aprofundando em **Microsserviços**, Design Patterns e Ecossistema **Spring Boot**.
+- 💬 **Comunidade:** Mentoria para iniciantes e compartilhamento de conhecimento sobre carreira dev.
 
-<br>
+<br/>
 
-### ⚡ GitHub Analytics
-
-<div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=swanmomsen&show_icons=true&theme=transparent&hide_border=true&title_color=fff&text_color=ddd&icon_color=79ff97" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swanmomsen&layout=compact&theme=transparent&hide_border=true&title_color=fff&text_color=ddd" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swanmomsen&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swanmomsen&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>

@@ -43,20 +43,7 @@ I am a Software Engineer focused on the **Microsoft Ecosystem (.NET)** and **Mod
   <br>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,html,css,tailwind&perline=6" />
   <br>
-  <img src="https://skillicons.dev/icons?i=git,docker,azure,postman,vscode,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=git,docker,azure,postman,vscode&perline=6" />
 </div>
 
 <br/>
-
-### ⚡ Engineering Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swanmomsen&show_icons=true&theme=transparent&hide_border=true&title_color=25D03F&text_color=ddd&icon_color=25D03F&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swanmomsen&layout=compact&theme=transparent&hide_border=true&title_color=25D03F&text_color=ddd" height="150" alt="languages graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <i>"Talk is cheap. Show me the code."</i> — Linus Torvalds
-</div>
